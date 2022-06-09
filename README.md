@@ -14,4 +14,4 @@ O Feedget é um simpático widget de feedback localizado ao canto inferior direi
 
 ### 🧑🏽‍💻 Acessar o Feedget
 
-O Feedget está disponível em produção e pode ser acessado por meio do domínio:
+O Feedget está disponível em : https://feedback-umber-theta.vercel.app/
