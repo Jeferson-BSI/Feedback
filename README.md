@@ -1,4 +1,5 @@
-# F# 🐛 Feedget 💭
+Projeto criado no NLW Return – Mission Impulse
+
 
 <div align="center">
 
@@ -13,11 +14,4 @@ O Feedget é um simpático widget de feedback localizado ao canto inferior direi
 
 ### 🧑🏽‍💻 Acessar o Feedget
 
-O Feedget está disponível em produção e pode ser acessado por meio do domínio: https://feedget-nlw-return.vercel.app/
-
-
-### 💻 Rodar o Projeto
-
-Para rodar o back-end, front-end e mobile dessa aplicação, veja no seguinte [guia](INSTALL.md).
-
-Projeto criado no NLW Return – Mission Impulse
+O Feedget está disponível em produção e pode ser acessado por meio do domínio:
